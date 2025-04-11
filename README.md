@@ -1,5 +1,10 @@
-## Hi there 👋
+## "Hello World"👩‍💻
 
+## Sobre Mim
+
+
+## Habilidades iniciais
+[![My Skills](https://skillicons.dev/icons?i=java,python,)](https://skillicons.dev)
 <!--
 **AuanaPimentel/AuanaPimentel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
